@@ -1,0 +1,22 @@
+@import url('https: //fonts.googleapis.com/css?family=Michroma&display=swap');
+
+body {
+    font-family: Michroma, serif;
+    background: linear-gradient(0deg, #93767f 0%, #eeeef2 100%);
+}
+.sidebar {
+    color: rgb(255, 255, 255);
+    background-color: rgb(101, 48, 90);
+}
+.main {
+    
+    size: 30px;
+    align-items: center;
+
+}
+.st {
+    color: #301920;
+}
+.h1 {
+    align-items: center;
+}
